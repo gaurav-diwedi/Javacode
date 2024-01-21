@@ -2,7 +2,7 @@
 
 public class challange2 {
     public static void main(String[] args) {
-    //implicit type comversion    
+    //implicit type comversion (Automatic)   
         float myFloat= 5;
         System.out.println(myFloat);
 
